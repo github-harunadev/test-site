@@ -28,14 +28,14 @@
       "image": 3,
       "image_ratio": 1,
       "title": "이미지 테스트 3",
-      "content": "image test 3"
-    }
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. Integer convallis eget sem id bibendum. Suspendisse condimentum fringilla ipsum, at mattis massa posuere id. Mauris ultrices arcu nec ex placerat accumsan. Curabitur ut dolor id mi commodo posuere et a tellus. Aenean tellus leo, fermentum eu pulvinar eget, egestas ut lacus. Cras non nulla eu tellus volutpat mollis. Cras tempus metus nibh, eget vehicula nunc consequat vitae.\n\nDuis ullamcorper interdum ligula in aliquet. Curabitur consectetur nunc tristique semper bibendum. "
+	}
   ],
   "miniPostData": [
     {
       "title": "hi",
-      "content": "test"
-    },
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. "
+	},
     {
       "title": "hi",
       "content": "test"
