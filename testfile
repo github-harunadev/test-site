@@ -1,0 +1,17 @@
+{
+  "bigPost": 3,
+  "bigPostData": [
+    {
+      "image": "no",
+      "title": "hi",
+      "content": "test"
+    }
+  ],
+  "miniPost": 2,
+  "miniPostData": [
+    {
+      "title": "hi",
+      "content": "test"
+    }
+  ]
+}
