@@ -11,6 +11,24 @@
       "image_ratio": 0.5615,
       "title": "화본뉴스 한글 테스트",
       "content": "한글 디코딩 테스트 ㄱㄴㄷㅏㅑㅓ, 日本語デコーディングテスト あいうえお"
+    },
+    {
+      "image": 1,
+      "image_ratio": 0.5615,
+      "title": "이미지 테스트 1",
+      "content": "image test 1"
+    },
+    {
+      "image": 2,
+      "image_ratio": 1.7777,
+      "title": "이미지 테스트 2",
+      "content": "image test 2"
+    },
+    {
+      "image": 3,
+      "image_ratio": 1,
+      "title": "이미지 테스트 3",
+      "content": "image test 3"
     }
   ],
   "miniPostData": [
